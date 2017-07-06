@@ -1,5 +1,5 @@
 # 欢迎来到菱角的个人网站！
- 
+![HELLO](http://img.027cgb.cn/20170706/2017765621775731906.jpg)
 ## 简介
 菱角，广东潮州人，是菱角传媒集团的创始人，一位传奇人物。
 此人多次登上各地的报刊、杂志、电视台，但却不知其真实姓名。
@@ -19,3 +19,6 @@
  ## 个人收藏 
     图片收藏： <br/>
     网址收藏：
+<!-- JiaThis Button BEGIN -->
+<script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?btn=r2.gif" charset="utf-8"></script>
+<!-- JiaThis Button END -->
