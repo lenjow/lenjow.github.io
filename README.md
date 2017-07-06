@@ -7,7 +7,7 @@
 此人作品种类甚多：
 ### 小说：
 * 《三班典》已完结  [阅读](http://www.timeface.cn/book/641264547403/pod?type=0)
-* 《元素周期战》 正在酝酿
+* 《元素周期战》 正在连载 [了解一下](https://lenjow.github.io/chemistry/)
  ### 视频音乐： 
  暂不公开
  ### RIME输入法方案 ：
