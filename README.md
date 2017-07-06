@@ -1,5 +1,5 @@
 # 欢迎来到菱角的个人网站！
-![HELLO](http://img.027cgb.cn/20170706/2017765621775731906.jpg)
+![HELLO](https://raw.githubusercontent.com/lenjow/lenjow.github.io/master/橫幅--设计创建于创客贴.jpg)
 ## 简介
 菱角，广东潮州人，是菱角传媒集团的创始人，一位传奇人物。
 此人多次登上各地的报刊、杂志、电视台，但却不知其真实姓名。
